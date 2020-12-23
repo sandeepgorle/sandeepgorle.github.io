@@ -15,3 +15,7 @@ Most loved film:THE INTERN
 Favourite web series: THE OFFICE
 
 ![the office](office.jpg)
+
+Admired sports personality : Roger Federer
+
+![goat](rf.jpg)
